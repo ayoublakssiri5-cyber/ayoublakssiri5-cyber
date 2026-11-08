@@ -42,7 +42,7 @@ _In development — no public release yet._
 
 ## Experience
 
-**Full-Stack Developer Intern** — software company
+**Full-Stack Developer Intern — CG**
 Contributed to full-stack software development during an internship. Project details are confidential.
 
 **Network Monitoring Intern** — ONDA (Office National Des Aéroports)
